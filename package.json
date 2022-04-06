@@ -5,5 +5,21 @@
   },
   "dependencies": {
     "cypress": "^9.5.3"
-  }
+  },
+  "name": "cypressquest3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudAM/CypressQuest3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaudAM/CypressQuest3/issues"
+  },
+  "homepage": "https://github.com/ArnaudAM/CypressQuest3#readme",
+  "description": ""
 }
