@@ -1,1 +1,4 @@
 node_modules
+cypress/integration/01-Lesson.spec.js
+cypress/integration/02-Challenge.spec.js
+cypress/support/tasteDiveCommand.js
